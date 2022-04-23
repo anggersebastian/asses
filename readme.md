@@ -1,3 +1,6 @@
+<p align="center">
+  Using PHP 7.1.1 & laravel 5.6
+</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
